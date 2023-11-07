@@ -4,3 +4,9 @@ channels:
   - https://repo.mamba.pm/conda-forge
 dependencies:
   - ipycanvas
+  - ipywidgets
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - plotly
