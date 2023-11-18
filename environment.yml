@@ -5,6 +5,7 @@ channels:
 dependencies:
   - ipycanvas
   - ipywidgets
+  - ipympl
   - numpy
   - scipy
   - sympy
